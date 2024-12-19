@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4041478f-b021-4686-b527-18b8b56a67eb)### Hi there 👋 I am a full-stack Software Engineer from China.
+### Hi there 👋 I am a full-stack Software Engineer from China.
 
 - Talking about Personal Stuffs:
   - 📖 Dive in Web3.
