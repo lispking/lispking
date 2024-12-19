@@ -1,6 +1,7 @@
 ### Hi there 👋 I am a full-stack Software Engineer from China.
 
 - Talking about Personal Stuffs:
+
   - 📖 Dive in Web3.
   - 🏅 Good at language development such as **Rust**, **Solidity**, **FunC** and **Move**.
   - 🏰 I have worked in many major companies such as **Alibaba**, **Huawei** and **Tencent**.
