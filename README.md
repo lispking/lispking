@@ -1,7 +1,14 @@
-### Hey 👋 I'm King – full-stack engineer from China.
+Hey 👋 I'm King – Rust & AI agent craftsman (@lispking)
 
-#### 🚀 What I'm up to:
+Escaped big tech (Alibaba・Huawei・Tencent) → now deep in open-source chaos
 
-- 🔨 Loving **Rust** these days — building all kinds of fun and crazy stuff with it
-- 🛠️ Also comfortable with **Solidity**, **FunC**, **Move** and other systems/smart-contract languages
-- 🏢 Ex-Alibaba, Huawei, Tencent
+Building in Rust:
+- **fluxus** (stream processing engine @fluxus-labs)
+- **pixel-pal** (Bevy-powered desktop AI pet companion)
+- **ferrum-bot** (clean Rust agent runtime w/ tools & integrations)
+
+Solidity・FunC・Move lurking in the shadows
+
+Sharing: Rust agent patterns • Bevy experiments • chain security rants • cursed performant code
+
+DM open for code roasts, collabs, memes, or "how did you build that?" 😈🚀
