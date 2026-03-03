@@ -3,9 +3,9 @@ Hey 👋 I'm King – Rust & AI agent craftsman (@lispking)
 Escaped big tech (Alibaba・Huawei・Tencent) → now deep in open-source chaos
 
 Building in Rust:
-- **fluxus** (stream processing engine @fluxus-labs)
-- **pixel-pal** (Bevy-powered desktop AI pet companion)
-- **ferrum-bot** (clean Rust agent runtime w/ tools & integrations)
+- [**fluxus**](https://github.com/fluxus-labs/fluxus) (stream processing engine @fluxus-labs)
+- [**pixel-pal**](https://github.com/lispking/pixel-pal) (Bevy-powered desktop AI pet companion)
+- [**ferrum-bot**](https://github.com/lispking/ferrum-bot) (clean Rust agent runtime w/ tools & integrations)
 
 Solidity・FunC・Move lurking in the shadows
 
