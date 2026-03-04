@@ -13,3 +13,5 @@ Solidity・FunC・Move lurking in the shadows
 Sharing: Rust agent patterns • Bevy experiments • chain security rants • cursed performant code
 
 DM open for code roasts, collabs, memes, or "how did you build that?" 😈🚀
+
+![](https://komarev.com/ghpvc/?username=lispking)
