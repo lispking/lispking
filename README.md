@@ -7,6 +7,7 @@ Building in Rust:
 - [**pixel-pal**](https://github.com/lispking/pixel-pal) (Bevy-powered desktop AI pet companion)
 - [**ferrum-bot**](https://github.com/lispking/ferrum-bot) (clean Rust agent runtime w/ tools & integrations)
 - [**agent-io**](https://github.com/lispking/agent-io) (Rust SDK for building AI agents with multi-provider LLM support)
+- [**globuid**](https://github.com/lispking/globuid) (A globally unique ID generator with pluggable algorithms and transport layer, written in Rust.)
 
 Solidity・FunC・Move lurking in the shadows
 
