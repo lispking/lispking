@@ -8,6 +8,7 @@ Building in Rust:
 - [**ferrum-bot**](https://github.com/lispking/ferrum-bot) (clean Rust agent runtime w/ tools & integrations)
 - [**agent-io**](https://github.com/lispking/agent-io) (Rust SDK for building AI agents with multi-provider LLM support)
 - [**globuid**](https://github.com/lispking/globuid) (A globally unique ID generator with pluggable algorithms and transport layer, written in Rust.)
+- [**ferris-search**](https://github.com/lispking/ferris-search) (A blazing-fast MCP (Model Context Protocol) server for multi-engine web search, written in Rust.)
 
 Solidity・FunC・Move lurking in the shadows
 
