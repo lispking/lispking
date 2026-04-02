@@ -9,6 +9,7 @@ Building in Rust:
 - [**agent-io**](https://github.com/lispking/agent-io) (Rust SDK for building AI agents with multi-provider LLM support)
 - [**globuid**](https://github.com/lispking/globuid) (A globally unique ID generator with pluggable algorithms and transport layer, written in Rust.)
 - [**ferris-search**](https://github.com/lispking/ferris-search) (A blazing-fast MCP (Model Context Protocol) server for multi-engine web search, written in Rust.)
+- [**kvdb**](https://github.com/lispking/kvdb) (An experimental embedded key-value database written in Zig, built around page-based storage, sorted leaf-page indexing, WAL record logging, and a small transaction API.)
 
 Solidity・FunC・Move lurking in the shadows
 
